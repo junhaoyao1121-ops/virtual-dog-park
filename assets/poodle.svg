@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Illustration of a Poodle</title>
+  <rect width="200" height="200" rx="24" fill="#eef1fb"/>
+  <ellipse cx="100" cy="178" rx="55" ry="38" fill="#fffdf4"/>
+  <ellipse cx="56" cy="105" rx="21" ry="37" fill="#d7d2c7"/>
+  <ellipse cx="144" cy="105" rx="21" ry="37" fill="#d7d2c7"/>
+  <circle cx="100" cy="100" r="51" fill="#fffdf4"/>
+  <circle cx="62" cy="67" r="19" fill="#fffdf4"/>
+  <circle cx="82" cy="51" r="21" fill="#fffdf4"/>
+  <circle cx="107" cy="48" r="22" fill="#fffdf4"/>
+  <circle cx="132" cy="59" r="20" fill="#fffdf4"/>
+  <circle cx="147" cy="81" r="18" fill="#fffdf4"/>
+  <circle cx="79" cy="99" r="5" fill="#302c2a"/>
+  <circle cx="121" cy="99" r="5" fill="#302c2a"/>
+  <ellipse cx="100" cy="124" rx="27" ry="20" fill="#f4efe4"/>
+  <ellipse cx="100" cy="116" rx="9" ry="7" fill="#302c2a"/>
+  <path d="M100 123 V131 M100 131 Q91 139 83 132 M100 131 Q109 139 117 132"
+        fill="none" stroke="#302c2a" stroke-width="3" stroke-linecap="round"/>
+</svg>

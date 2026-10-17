@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Illustration of a Beagle</title>
+  <rect width="200" height="200" rx="24" fill="#eaf3ec"/>
+  <ellipse cx="100" cy="178" rx="57" ry="39" fill="#ffffff"/>
+  <ellipse cx="54" cy="91" rx="22" ry="55" fill="#75462f" transform="rotate(18 54 91)"/>
+  <ellipse cx="146" cy="91" rx="22" ry="55" fill="#75462f" transform="rotate(-18 146 91)"/>
+  <ellipse cx="100" cy="96" rx="55" ry="58" fill="#d9a16b"/>
+  <path d="M100 39 C87 62 90 85 100 99 C110 85 113 62 100 39Z" fill="#ffffff"/>
+  <circle cx="79" cy="91" r="5" fill="#2d2927"/>
+  <circle cx="121" cy="91" r="5" fill="#2d2927"/>
+  <ellipse cx="85" cy="119" rx="20" ry="17" fill="#fff8ee"/>
+  <ellipse cx="115" cy="119" rx="20" ry="17" fill="#fff8ee"/>
+  <ellipse cx="100" cy="112" rx="10" ry="7" fill="#2d2927"/>
+  <path d="M100 119 V128 M100 128 Q91 137 83 130 M100 128 Q109 137 117 130"
+        fill="none" stroke="#2d2927" stroke-width="3" stroke-linecap="round"/>
+</svg>

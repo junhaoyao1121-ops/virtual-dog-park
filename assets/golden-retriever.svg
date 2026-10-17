@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <title>Illustration of a Golden Retriever</title>
+  <rect width="200" height="200" rx="24" fill="#fff3d7"/>
+  <ellipse cx="100" cy="178" rx="62" ry="39" fill="#e7ad53"/>
+  <path d="M52 70 C28 75 30 127 54 137 C72 121 72 90 52 70Z" fill="#c98537"/>
+  <path d="M148 70 C172 75 170 127 146 137 C128 121 128 90 148 70Z" fill="#c98537"/>
+  <ellipse cx="100" cy="94" rx="54" ry="55" fill="#efbf67"/>
+  <path d="M65 56 Q81 35 99 48 Q115 34 137 56 Q112 55 100 63 Q82 54 65 56Z"
+        fill="#e2a44b"/>
+  <circle cx="80" cy="92" r="5" fill="#302820"/>
+  <circle cx="120" cy="92" r="5" fill="#302820"/>
+  <ellipse cx="86" cy="120" rx="21" ry="18" fill="#ffe4ac"/>
+  <ellipse cx="114" cy="120" rx="21" ry="18" fill="#ffe4ac"/>
+  <ellipse cx="100" cy="112" rx="10" ry="7" fill="#302820"/>
+  <path d="M100 119 V128 M100 128 Q90 137 82 130 M100 128 Q110 137 118 130"
+        fill="none" stroke="#302820" stroke-width="3" stroke-linecap="round"/>
+</svg>
