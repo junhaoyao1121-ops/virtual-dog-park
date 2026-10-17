@@ -85,3 +85,77 @@ h2 {
     grid-template-columns: 1fr;
   }
 }
+.virtual-dog {
+  margin-top: 40px;
+  padding: 24px;
+  background: white;
+  border: 1px solid #d8e4db;
+  border-radius: 14px;
+}
+
+.virtual-dog > p {
+  margin-top: 0;
+}
+
+#adoption-form {
+  display: grid;
+  gap: 10px;
+  max-width: 420px;
+}
+
+#adoption-form label {
+  font-weight: bold;
+}
+
+#adoption-form select,
+#adoption-form input {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #8aa493;
+  border-radius: 8px;
+  font: inherit;
+}
+
+button {
+  padding: 10px 16px;
+  border: 0;
+  border-radius: 8px;
+  background: #246b4b;
+  color: white;
+  font: inherit;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #194d38;
+}
+
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 3px solid #f1bd62;
+  outline-offset: 2px;
+}
+
+.form-error {
+  min-height: 1.5em;
+  margin: 0;
+  color: #a5322a;
+}
+
+#pet-panel {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid #d8e4db;
+}
+
+.pet-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+[hidden] {
+  display: none !important;
+}
